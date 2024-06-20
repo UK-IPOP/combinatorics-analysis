@@ -27,7 +27,3 @@ Similarly, this tool will likely be able to do ICD-10 code grouping using decima
 
 This tool was inspired by collaboration with the Cuyahoga County Medical Examiner Office.
 
-Heavy inspiration is taken from the [Market Basket Analysis](https://www.turing.com/kb/market-basket-analysis) methodology. 
-
-An example python program can be found [here](scripts/example.py) that is a simplified example.
-
